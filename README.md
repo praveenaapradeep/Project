@@ -1,15 +1,17 @@
 Stock Market Prediction Analysis
+
 Project Overview
+
 In this project, I conducted a comprehensive analysis to predict the stock prices of Google and Facebook using advanced deep learning techniques. The goal was to build models capable of forecasting future stock prices based on historical data, providing valuable insights for investment decisions.The NYSE Securities dataset provides information on securities listed on the New York Stock Exchange (NYSE). This dataset includes details about the securities, such as their symbols, names, and other identifying information. It is valuable for analyzing the stock market and performing financial research.
 
 objectives
-Model Performance: Aim for a model that generalizes well, is robust, and operates efficiently.
+#Model Performance: Aim for a model that generalizes well, is robust, and operates efficiently.
 
-Model Comparison: Focus on benchmarking models, understanding trade-offs, and assessing real-world applicability.
+#Model Comparison: Focus on benchmarking models, understanding trade-offs, and assessing real-world applicability.
 
-Model Accuracy: Seek to maximize accuracy, understand error types, and ensure consistent performance.
+#Model Accuracy: Seek to maximize accuracy, understand error types, and ensure consistent performance.
 
-Dataset Utilization: Strive for comprehensive coverage, high quality, appropriate augmentation, and balanced representation.
+#Dataset Utilization: Strive for comprehensive coverage, high quality, appropriate augmentation, and balanced representation.
 
 dataset description
 ID (integer): A unique identifier assigned to each security. This ID is used for indexing and referencing specific securities in the dataset.
